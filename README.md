@@ -1,1 +1,3 @@
 # Python_Vocabulary_Tracker
+
+The purpose of this project is to create a space for Spanish language learners to keep track of new vocabulary words and their definitions. Within the app, users can quiz themselves and export any vocabulary learned to a CSV file for later viewing. This project was really fun to make, and I hope you enjoy! Since this is a Python app, I recommend you download an IDE like Visual Studio Code to run it. Make sure you download both VocabApplication.py and VocabTracker.py. To start the program, you will need to run the VocabApplication.py file. Thanks again for checking out my project!
